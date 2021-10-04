@@ -225,6 +225,7 @@ Companies or businesses selling products with a primary focus on semantic web te
 - [Semantic Arts](https://semanticarts.com) - Enterprise information systems based on flexible data structures and deep semantics.
 - [Same4](http://www.seme4.com)
 - [Derivo](https://www.derivo.de/en/home/) 
+- [The QA Company](https://the-qa-company.com/) 
 
 ## Industry
 Companies or businesses using semantic web technologies
@@ -652,6 +653,7 @@ OS - OpenSource
 
 ### European Commission
  - [Core Vocabularies](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/core-vocabularies) - Vocabularies developed for/by public administrations.
+ - {The EU Knowledge Graph}(https://linkedopendata.eu) - A Knowledge Graph hosted using a Wikibase.
 
 ### Community
 
